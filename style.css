@@ -1,0 +1,23 @@
+.menu {
+    margin-top: auto;
+    width: 400px;
+    display: grid;
+}
+
+.caixa {
+    width: 400px;
+    display: grid;
+
+}
+
+.botao__enviar {
+    margin-bottom: 10px;
+    border: 0;
+    padding: 10px 60px;
+    text-shadow: none;
+    text-align: center;
+    cursor: pointer;
+    transform: scale(1.2);
+    border: none;
+}
+
